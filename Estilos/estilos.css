@@ -1,0 +1,96 @@
+
+body{
+	background-image: url(italia.jpg);
+}
+.titulo {
+	background-color:#dcedc1 ;
+	color: #0d1b2a;
+	width: 30cm;
+	border-radius: 20px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: sans-serif;
+	text-decoration: underline;
+
+}
+.audio {
+	color: white;
+	border-radius: 10px;
+	background-color: green;
+	text-decoration: underline;
+	font-family:  sans-serif;
+    font-size: 1cm;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 14cm;
+}
+.musica {
+width: 35cm;
+margin-bottom: 1cm	 ;
+}
+
+.lasaña {
+	width: 10cm;
+	border-radius: 10cm;
+}
+.intro {
+	color: white;
+	height: 160px;
+	margin: 2rem auto;
+	width: 11cm;
+	margin-top: -5cm;
+
+}
+
+.ingredientes {
+	color: white;
+	margin:2rem auto;
+	width: -20cm;
+	font-weight: bolder;
+
+}
+
+.titulo2{
+	color:white;
+	background-color: green;
+	padding: 0.1rem;
+	text-decoration: underline;
+	text-align: center;
+	width: 35cm;
+	border-radius: 100px;
+	font-size: 20px;
+}
+
+.titulotime {
+	color: white;
+	text-decoration: underline;
+	font-size: 30px;
+	background-color: tomato;
+	border-radius: 40px;
+	width: 6cm;
+}
+
+.tiempo{
+
+	color: white;
+
+}
+
+.textoend {
+	color: whitesmoke;
+	font-style:oblique;
+	font-size: 1.8rem;
+	background-color: coral;
+}
+
+.piedepagina {
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+	background-color: black;
+	width: 30cm;
+	border-radius: 10cm;
+	margin: 2cm;
+}
